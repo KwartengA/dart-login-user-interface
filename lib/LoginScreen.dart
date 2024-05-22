@@ -12,6 +12,7 @@ class LoginScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
        body: SingleChildScrollView(
+        //The SingleChildScrollView Widget allows the whole user interface to be scrolled to be scrolled downwards at once
           child: Center(
             child: Padding(
               padding: const EdgeInsets.all(4.0),

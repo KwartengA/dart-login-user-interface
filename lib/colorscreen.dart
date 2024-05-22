@@ -1,5 +1,9 @@
 import 'package:flutter/material.dart';
-
+/* In Flutter, it is good practice
+ to select colours for use in a class
+  than just selecting them out of the blue
+  This makes the colours easier to select
+  This also prevents too much boilerplate code */
 class Pallete {
   static const Color backgroundColor = Color.fromRGBO(24, 24, 32, 1);
   static const Color gradient1 = Color.fromRGBO(187, 63, 221, 1);
