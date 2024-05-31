@@ -40,6 +40,10 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+     KwartengA:
+    git:
+      url: https://github.com/KwartengA/dart-login-user-interface.git
+      ref: master
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
